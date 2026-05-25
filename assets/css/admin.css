@@ -1,0 +1,5 @@
+.omniprint-admin { max-width: 1100px; }
+.omniprint-admin h1 { margin-bottom: 12px; }
+.omniprint-card-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 16px; margin-top: 20px; }
+.omniprint-card { background: #fff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 16px; box-shadow: 0 2px 10px rgba(15, 23, 42, 0.04); }
+.omniprint-badge { display: inline-block; padding: 4px 10px; border-radius: 999px; background: #dbeafe; color: #1d4ed8; font-size: 12px; font-weight: 600; }
